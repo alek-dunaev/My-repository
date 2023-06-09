@@ -1,0 +1,4 @@
+    # Конвертирование всех цен из строк в числа
+    
+    
+    all_prices = [float(p.replace(' ', '')) for p in all_prices]
