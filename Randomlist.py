@@ -1,3 +1,6 @@
+"""Пример использования функции рандом"""
+
+
 import random
 randomlist = []
 for i in range(5):
