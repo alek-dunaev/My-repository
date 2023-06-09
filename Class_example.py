@@ -1,5 +1,6 @@
 """Пример создания class"""
 
+
 class Event:
     def __init__(self, timestamp=0, event_type="", session_id=""):
         self.timestamp = timestamp
