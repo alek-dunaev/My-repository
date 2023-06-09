@@ -1,3 +1,6 @@
+"""Пример декоратора"""
+
+
 def counter(func):
    count = 0
    def wrapper(*args, **kwargs):
