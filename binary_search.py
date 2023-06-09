@@ -1,3 +1,6 @@
+"""Бинарный поиск"""
+
+
 def binary_search(array, element, left, right):
     if left > right:  # если левая граница превысила правую,
         return False  # значит элемент отсутствует
